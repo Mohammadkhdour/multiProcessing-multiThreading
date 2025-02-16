@@ -60,7 +60,7 @@ Ensure you have the following installed:
 
 ### 📂 Cloning the Repository
 ```sh
-git clone https://github.com/yourusername/Parallel-Computing-OS.git
+git clone https://github.com/mohammadkhdour/Parallel-Computing-OS.git
 cd Parallel-Computing-OS
 ```
 
